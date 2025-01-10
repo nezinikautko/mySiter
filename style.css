@@ -6,12 +6,13 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url("https://media.informpskov.ru/content/2024/11/7r5tn1731327439.jpg");
     background-size: cover;
     display: flex;
 }
 
 .header_left {
+    color: whitesmoke;
     width: 65%;
     height: 100%;
     font-size: 3vw;
