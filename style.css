@@ -81,10 +81,14 @@ section h1 {
     margin: 0 4em 4em 4em;
 }
 
+
+
 .section_item img {
     height: 100%;
 }
-
+.section_item:hover{
+    transform: rotate(120deg) scaleY(2);
+}
 
 .projects {
     color: white;
